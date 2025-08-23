@@ -1,16 +1,26 @@
-## Hi there 👋
+## José Gabriel Martins 💻
 
-<!--
-**Martins20321/Martins20321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente cursando engenharia de software
+- 🌱 Estudando programação e pretendo crescer bastante na área
 
-Here are some ideas to get you started:
+  
+<div>
+<a href= "https://github.com/Martins20321" >
+<img width = "48%" src="https://github-readme-stats.vercel.app/api?username=Martins20321&show_icons=true&theme=dark&include_all_commits=true"/ >
+<img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins20321&layout=compact&langs_count=16&theme=dark" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages 🛠️
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-Java" height="30" width="40" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Cpp" height="30" width="40" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+
+
