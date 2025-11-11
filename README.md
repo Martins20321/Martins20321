@@ -1,7 +1,7 @@
 ## José Gabriel Martins 💻
 
-- 🔭 Atualmente cursando engenharia de software
-- 🌱 Estudando programação e pretendo crescer bastante na área
+- 🔭 Cursando Engenharia de Software(2º semestre)
+- 🌱 Estudando programação e pretendo me desenvolver bastante na área, explorando novas tecnologias e abrangendo meu conhecimento
 
   
 <div>
