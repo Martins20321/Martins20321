@@ -1,25 +1,23 @@
-## José Gabriel Martins 💻
+## 👨🏻‍💻 José Gabriel Martins da Silva
 
-- 🔭 Cursando Engenharia de Software(2º semestre)
-- 🌱 Estudando programação e pretendo me desenvolver bastante na área, explorando novas tecnologias e abrangendo meu conhecimento
+```` Software Engineering & Java Developer Student````
 
-  
-<div>
-<a href= "https://github.com/Martins20321" >
-<img width = "48%" src="https://github-readme-stats.vercel.app/api?username=Martins20321&show_icons=true&theme=dark&include_all_commits=true"/ >
-<img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins20321&layout=compact&langs_count=16&theme=dark" />
-</div>
+Currently pursuing a Bachelor's degree in Software Engineering (2nd/3rd semester) at the University Center of Brasília (UniCeub), focused on Backend development with Java. Passionate about transforming ideas into code and constantly learning about efficient and scalable solutions.
 
-## Languages 🛠️
-<div style="display: inline_block"><br>
-<img align="center" alt="Gabriel-Java height="30" width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="Gabriel-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+Reach me out here: <a href="mailto:jgmsilva11@gmail.com" target="__blank">jgmsilva11@gmail.com</a> 
+
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,postgres,mysql,docker,git)](https://skillicons.dev)
+
+### Tech content
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](www.linkedin.com/in/josé-gabriel-martins-3b8491320)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/martins.07._)
+
+### Languages 
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediate English
+
+
 
 
 
