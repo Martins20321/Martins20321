@@ -7,7 +7,7 @@ Currently pursuing a Bachelor's degree in Software Engineering (2nd/3rd semester
 Reach me out here: <a href="mailto:jgmsilva11@gmail.com" target="__blank">jgmsilva11@gmail.com</a> 
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,postgres,mysql,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,css,html,postgres,mysql,docker,git)](https://skillicons.dev)
 
 ### Tech content
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/josé-gabriel-martins-3b8491320)
