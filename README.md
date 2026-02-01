@@ -2,7 +2,7 @@
 
 ```` Software Engineering & Java Developer Student````
 
-Currently pursuing a Bachelor's degree in Software Engineering (2nd/3rd semester) at the University Center of Brasília (UniCeub), focused on Backend development with Java. Passionate about transforming ideas into code and constantly learning about efficient and scalable solutions.
+Currently pursuing a Bachelor's degree in Software Engineering (3nd/4rd semester) at the University Center of Brasília (UniCeub), focused on Backend development with Java. Passionate about transforming ideas into code and constantly learning about efficient and scalable solutions.
 
 Reach me out here: <a href="mailto:jgmsilva11@gmail.com" target="__blank">jgmsilva11@gmail.com</a> 
 
