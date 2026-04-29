@@ -1,13 +1,13 @@
 ## 👨🏻‍💻 José Gabriel Martins da Silva
 
-```` Software Engineering & Java Developer Student````
+```` Software Engineering & Java Backend Developer ````
 
 Currently pursuing a Bachelor's degree in Software Engineering (3nd/8rd semester) at the University Center of Brasília (UniCeub), focused on Backend development with Java. Passionate about transforming ideas into code and constantly learning about efficient and scalable solutions.
 
 Reach me out here: <a href="mailto:jgmsilva11@gmail.com" target="__blank">jgmsilva11@gmail.com</a> 
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,css,html,postgres,mysql,mongodb,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,aws,docker,git)](https://skillicons.dev)
 
 ### Tech content
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/josé-gabriel-martins-3b8491320)
