@@ -10,7 +10,7 @@ Reach me out here: <a href="mailto:jgmsilva11@gmail.com" target="__blank">jgmsil
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,aws,docker,git)](https://skillicons.dev)
 
 ### Tech content
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/josé-gabriel-martins-3b8491320)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/josé-martins-3b8491320)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/martins.07._)
 
 ### Languages 
