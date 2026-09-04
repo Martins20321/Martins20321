@@ -9,7 +9,7 @@ Reach me out here: <a href="mailto:jgmsilva11@gmail.com" target="__blank">jgmsil
 <p>☁️ <a href="https://www.credly.com/badges/7aeb35a3-fa6e-44ba-a322-e4eab5182ec3/public_url">1x AWS Certified</a></p>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,aws,rabbitmq,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,redis,aws,rabbitmq,docker,git)](https://skillicons.dev)
 
 ### Tech content
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/josé-martins-3b8491320)
